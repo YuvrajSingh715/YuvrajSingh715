@@ -19,13 +19,13 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 👨‍💻 All of my projects are available at [YuvrajSingh715](YuvrajSingh715)
+- 👨‍💻 All of my projects are available at - https://github.com/YuvrajSingh715
 
-- 📝 I regularly write articles on [www.linkedin.com/in/yuvraj-singh2007](www.linkedin.com/in/yuvraj-singh2007)
+- 📝 I regularly write articles on - www.linkedin.com/in/yuvraj-singh2007
 
 - 💬 Ask me about **Linux,Docker,Git,Jenkins**
 
-- 📫 How to reach me **kushwahyuvraj262@gmail.com**
+- 📫 How to reach me - **kushwahyuvraj262@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
