@@ -23,9 +23,10 @@
 
 - 📝 I regularly write articles on - www.linkedin.com/in/yuvraj-singh2007
 
+- 📫 How to reach me - **kushwahyuvraj262@gmail.com**
+
 - 💬 Ask me about **Linux,Docker,Git,Jenkins**
 
-- 📫 How to reach me - **kushwahyuvraj262@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
